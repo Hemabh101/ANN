@@ -1,4 +1,4 @@
-# ANN
+# ANN(Artificial Neural Network)
 Overview:
 
 Welcome to our cutting-edge Python program designed for image processing and recognition. This sophisticated application leverages camera input to capture images and employs advanced algorithms to analyze and identify the contents of those images.
