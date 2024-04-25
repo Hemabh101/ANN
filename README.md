@@ -10,9 +10,6 @@ Image Capture Capability:
 Our program integrates seamlessly with cameras, allowing users to capture high-quality images effortlessly.
 Advanced Image Understanding:
 
-Leveraging state-of-the-art image processing techniques, our program goes beyond mere capture. It delves into the intricate details of each image for comprehensive understanding.
-Image Identification:
-
 The program employs robust identification algorithms to recognize and categorize the elements present in the captured images. From objects to scenes, our system provides accurate identification results.
 Usage Scenarios:
 
